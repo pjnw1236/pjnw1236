@@ -15,3 +15,4 @@
 
 
 ![PJW GitHub stats](https://github-readme-stats.vercel.app/api?username=pjnw1236&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjnw1236)](https://github.com/anuraghazra/github-readme-stats)
