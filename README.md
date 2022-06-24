@@ -2,9 +2,9 @@
 
 ![hibaro](https://user-images.githubusercontent.com/97827368/169654343-0928eea5-a1b1-4fd6-9a97-0239233af25a.gif)
 
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <!--
+![HTML](<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">)
+![CSS](<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">)
 ![JS](<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">)
 -->
 
