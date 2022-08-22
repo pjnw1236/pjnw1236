@@ -23,3 +23,5 @@
 <!--
 ![StackOverflow](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg)
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiside)](https://solved.ac/uiside/)
