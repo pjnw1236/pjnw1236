@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=pjnw1236&fontSize=90&animation=scaleIn)
 
+<!--
 ![hibaro](https://user-images.githubusercontent.com/97827368/169654343-0928eea5-a1b1-4fd6-9a97-0239233af25a.gif)
+-->
 
 <!--
 ![HTML](<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">)
